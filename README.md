@@ -29,7 +29,7 @@ Acesse o projeto pelo GitHub Pages:
 https://americobrandaop-boop.github.io/interactive-theme-form/
 ## Aprendizados
 
-Durante o desenvolvimento, pratiquei principalmente manipulação do DOM, eventos em JavaScript, alteração de classes e integração entre HTML, CSS e JavaScript.
+Durante o desenvolvimento, pratiquei principalmente manipulação do DOM, eventos em JavaScript, utilização de atributos `data-*`, alteração de estilos e integração entre HTML, CSS e JavaScript.
 
 ---
 
