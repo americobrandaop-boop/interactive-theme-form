@@ -26,8 +26,7 @@ A proposta foi utilizar JavaScript para modificar elementos da página de acordo
 
 Acesse o projeto pelo GitHub Pages:
 
-Em breve
-
+https://americobrandaop-boop.github.io/interactive-theme-form/
 ## Aprendizados
 
 Durante o desenvolvimento, pratiquei principalmente manipulação do DOM, eventos em JavaScript, alteração de classes e integração entre HTML, CSS e JavaScript.
